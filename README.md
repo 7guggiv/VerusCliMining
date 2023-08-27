@@ -50,7 +50,7 @@ Starting the miner:
 
 ## Github cloning and customizing
 1. clone this repo to your own github account
-2. change the URL on line 14 of the README.md to reflect your own account
+2. change the URL on line 25 of the README.md to reflect your own account
 3. change the SSH key on line 10 of `install.sh` to reflect your own SSH key
 4. change lines 15+16 to reflect your own github link (especially line 13!!!)
 5. adjust the `config.json` to your address and mining details.
